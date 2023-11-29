@@ -1,5 +1,5 @@
 function popUp(elementID){
-    document.getElementById(elementID).style.fontSize = "24pt";
+    document.getElementById(elementID).style.fontSize = "2em";
     alert("Hello, world!");
 }
 
